@@ -1,6 +1,4 @@
-Here is the `README.md` for your project:
 
-```markdown
 # Bloch Sphere Interactive Tool
 
 ## Overview
@@ -91,5 +89,4 @@ This project is licensed under the MIT License.
 ---
 
 Enjoy exploring the Bloch Sphere with the Quantum Gates and observe how they manipulate the quantum state!
-```
 
