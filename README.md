@@ -12,6 +12,10 @@ The **Bloch Sphere Interactive Tool** allows you to visualize quantum states of 
 - **Quantum Gate Application**: Apply quantum gates (Pauli-X, Pauli-Y, Pauli-Z, Hadamard) and observe their effects on the qubit's state vector.
 - **Quantum State Details**: Display the quantum state vector `|ψ⟩` in terms of the angles `θ` and `φ`, as well as the corresponding Bloch vector coordinates (X, Y, Z).
 
+## LIVE :
+
+Try it now at [Bloc Sphere App](https://blocsphere.streamlit.app/)
+
 ## Requirements
 - Python 3.7+
 - Required libraries:
